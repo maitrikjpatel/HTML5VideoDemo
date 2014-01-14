@@ -204,20 +204,20 @@
                 <h2 style="text-align: center;">
                     Video Codecs &amp;&nbsp;<span style="font-size: 75.96px;">Encoding Video</span>
                 </h2>
-                <div>
-                    <p>
+                <ul>
+                    <li>
                         <font style="font-size: 32px;">H.264</font>
-                    </p>
-                    <p>
+                    </li>
+                    <li>
                         <font style="font-size: 32px;">OGG THRORA</font>
-                    </p>
-                    <p>
+                    </li>
+                    <li>
                         <font style="font-size: 32px;">VP8(WEBM)</font>
-                    </p>
-                    <p>
+                    </li>
+                    <li>
                         <a href="http://techcrunch.com/2014/01/02/googles-vp9-video-codec-gets-backing-from-arm-nvidia-sony-and-others-gives-4k-video-streaming-a-fighting-chance/?utm_campaign=fb&amp;ncid=fb"><font style="font-size: 32px;">VP9 - Just released</font></a>
                     </p>
-                </div>
+                </ul>
             </section>
             <section>
                 <h2>
