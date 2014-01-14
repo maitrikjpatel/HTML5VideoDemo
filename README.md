@@ -1,4 +1,3 @@
-
 <h1>HTML5 Video</h1>
 <h2>Why we need it ? (pros)</h2>
 <ul>
@@ -19,22 +18,11 @@
 </li>
 </ul>
 <h2>Elements</h2>
-
-
-
-
-
-
-
-
-<p class="p1" style="text-align: left; ">
-    </p>
+<p class="p1" style="text-align: left; "> </p>
 <ul>
 <li>
-<span style="font-size: 24px;">
-    <b>autoplay*</b>
-</span>
-<br>
+<span style="font-size: 24px;"><b>autoplay*</b></span>
+
 </li>
 <li>
 <span>
