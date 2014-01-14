@@ -220,9 +220,9 @@
                 </ul>
             </section>
             <section>
-                <h2>
+                <h4>
                     How to Specify Codec&nbsp;
-                </h2>
+                </h4>
                 <div>
                     <div>
                         <ul>
@@ -242,7 +242,7 @@
         </section>
         <section>
             <h2>
-                ADAPTIVE sTEAM HTML5
+                Adaptive Stream HTML5
             </h2>
             <div>
                 AVS - adobe Scene7 - Scene7 player
@@ -281,22 +281,20 @@
                 Good Video Player in market&nbsp;
             </h2>
             <div>
-                <font style="font-size: 32px;">http://www.jwplayer.com</font> http://www.videojs.com
+            http://www.jwplayer.com
             </div>
             <div>
-                http://mediaelementjs.com
+            http://www.videojs.com
             </div>
             <div>
-                http://flowplayer.org
+            http://mediaelementjs.com
+            </div>
+            <div>
+            http://flowplayer.org
             </div>
         </section>
-        <section>
             <h2>
                 IT’S THE FUTURE, GET WITH IT!
             </h2>
-            <div>
-                Questions ??
-            </div>
-        </section>
     </body>
 </html>
