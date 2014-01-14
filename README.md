@@ -82,17 +82,19 @@
             HTML5 Video Sources
         </h2>
         <div>
+            <ul>
             <div style="text-align: left;">
-                <div>
-                    <font style="font-size: 24px;">• MP4 = MPEG 4 files with H264 video codec and AAC audio codec</font>
-                </div>
-                <div>
-                    <font style="font-size: 24px;">• WebM = WebM files with VP8 video codec and Vorbis audio codec</font>
-                </div>
-                <div>
-                    <font style="font-size: 24px;">• Ogg/Ogv/Ogm = Ogg files with Theora video codec and Vorbis audio codec</font>
-                </div>
+                <li>
+                    <font style="font-size: 24px;">MP4 = MPEG 4 files with H264 video codec and AAC audio codec</font>
+                </li>
+                <li>
+                    <font style="font-size: 24px;">WebM = WebM files with VP8 video codec and Vorbis audio codec</font>
+                </li>
+                <li>
+                    <font style="font-size: 24px;">Ogg/Ogv/Ogm = Ogg files with Theora video codec and Vorbis audio codec</font>
+                </li>
             </div>
+        </ul>
         </div>
         <section>
             <h4 style="text-align: left;">
