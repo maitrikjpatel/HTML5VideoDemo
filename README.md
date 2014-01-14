@@ -22,12 +22,9 @@
 <ul>
 <li>
 <span style="font-size: 24px;"><b>autoplay*</b></span>
-
 </li>
 <li>
-<span>
-    <font style="font-size: 24px;">preload</font>
-</span>
+<span><font style="font-size: 24px;"><b>preload</b></font></span>
 </li>
 <ul>
 <li>
@@ -45,40 +42,30 @@
 </li>
 </ul>
 <li>
-<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;">poster :&nbsp;</font>
+<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;"><b>poster :&nbsp;</b></font>
 <span style="font-size: 24px;">Provides an image to show before the video loads</span>
-<br>
 </li>
 <li>
-<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;">controls* :&nbsp;</font>
+<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;"><b>controls* :&nbsp;</b></font>
 <span style="font-size: 24px;">Shows the default video controls (play, pause, etc)</span>
-<br>
 </li>
 <li>
-<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;">height &amp; width &nbsp;:&nbsp;</font>
+<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;"><b>height &amp; width &nbsp;:&nbsp;</b></font>
 <span style="font-size: 24px;">Sets the width and height of the video in CSS pixels</span>
-<br>
 </li>
 <li>
-<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;">loop* :&nbsp;</font>
+<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;"><b>loop* :&nbsp;</b></font>
 <span style="font-size: 24px;">Tells the browser to automatically loop the video</span>
-<br>
 </li>
 <li>
-<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;">muted* :&nbsp;</font>
+<font style="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-size: 24px;"><b>muted* :&nbsp;<b></font>
 <span style="font-size: 24px;">Mute s the audio from the video</span>
-<br>
 </li>
 </ul>
 <p>
 </p>
-
-</div>
-</section>
-<section>
-    <h2>
-        <font style="font-size: 18px;">
-            <br>
+<h2><font style="font-size: 18px;">
+           
         </font>
     </h2>
 <div>
@@ -91,7 +78,6 @@
 <font style="font-size: 24px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;source src="../video/movie.webm" type="video/webm"&gt;</font>
 </div>
 <div>
-<br>
 </div>
 <div>
 <font style="font-size: 32px;">
@@ -104,7 +90,7 @@
 </div>
 <div>
 <font style="font-size: 24px;">
-    <br>
+   
 </font>
 </div>
 <div>
@@ -115,7 +101,7 @@
 </div>
 <div>
 <font style="font-size: 24px;">
-    <br>
+   
 </font>
 </div>
 </font>
@@ -123,7 +109,7 @@
 </section>
 <section>
     <h2>
-        <br>
+       
     </h2>
 </section>
 </section>
@@ -132,7 +118,7 @@
         <h2>HTML5 Video Sources</h2>
 <div>
         <font style="font-size: 24px;">
-            <br>
+           
         </font>
     </div>
 <div>
@@ -155,7 +141,7 @@
 <section>
     <h2 style="text-align: left; ">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Browser Support</h2>
 <div>
-    <br>
+   
 </div>
 <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;">
 <div>
@@ -209,7 +195,7 @@
 </blockquote>
 <div style="text-align: left;">
 <span>
-    <br>
+   
 </span>
 </div>
 </section>
@@ -220,7 +206,7 @@
 </h2>
 <div>
         <span style="font-size: 75.96px;">
-            <br>
+           
         </span>
     </div>
 <div>
@@ -229,15 +215,15 @@
 </p>
 <p>
 <font style="font-size: 32px;">
-    <br>OGG THRORA</font>
+   OGG THRORA</font>
 </p>
 <p>
 <font style="font-size: 32px;">
-    <br>VP8(WEBM)</font>
+   VP8(WEBM)</font>
 </p>
 <p>
 <font style="font-size: 32px;">
-    <br>
+   
 </font>
 </p>
 <p>
@@ -250,25 +236,24 @@
 <section>
     <h2>How to Specify Codec&nbsp;</h2>
 <div>
-    <br>
+   
 </div>
 <div>
-<br>
 </div>
 <div>
 <div>
     <ul>
 <li style="text-align: left; ">
 <span style="font-size: 24px; text-align: center;">&lt;source src="path/to/myvideo.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'&gt;</span>
-    <br>
+   
 </li>
 <li style="text-align: left; ">
 <span style="font-size: 24px; text-align: center;">&lt;source src="path/to/myvideo.ogv" type='video/ogg; codecs="theora, vorbis"'&gt;</span>
-    <br>
+   
 </li>
 <li style="text-align: left; ">
 <span style="font-size: 24px; text-align: center;">&lt;source src="../video/movie.webm" type='video/webm codecs="vp8, vorbis"'&gt;</span>
-    <br>
+   
 </li>
 </ul>
 </div>
@@ -278,14 +263,12 @@
 <section>
     <h2>ADAPTIVE sTEAM HTML5</h2>
 <div>
-    <br>
+   
 </div>
 <div>
-<br>
 </div>
 <div>AVS - adobe Scene7 - Scene7 player</div>
 <div>
-<br>
 </div>
 <div>
 <div style="font-size: 36.11820602416992px; font-style: normal; font-variant: normal;">m3u8 - Safari</div>
@@ -293,17 +276,15 @@
 <span>
 <font style="font-size: 24px;">you can't simply point your video tag to a local .m3u8, but rather, you must point it to an .m3u8 file that is being served over HTTP.</font>
 </span>
-<br>
 </div>
 <div style="font-size: 36.11820602416992px; font-style: normal; font-variant: normal;">
-<br>
 </div>
 </div>
 </section>
 <section>
     <h2>Video Converter</h2>
 <div>
-    <br>
+   
     </div>
 <div>
 <div>
@@ -311,21 +292,21 @@
     <a href="http://www.mirovideoconverter.com/">Miro Video Converter</a>
 </div>
 <div>
-    <br>
+   
     </div>
 <div>
 <span class="Apple-tab-span" style="white-space:pre">   </span>
     <a href="http://handbrake.fr/">Handbrake</a>
 </div>
 <div>
-    <br>
+   
     </div>
 <div>
 <span class="Apple-tab-span" style="white-space:pre">   </span>
     <a href="http://www.squared5.com/">MPEG Streamclip ()</a>
 </div>
 <div>
-    <br>
+   
     </div>
 <div>
 <span class="Apple-tab-span" style="white-space:pre">   </span>
@@ -336,27 +317,23 @@
 <section>
     <h2>Good Video Player in market&nbsp;</h2>
 <div>
-    <br>
+   
 </div>
 <div>
-<font style="font-size: 32px;">http://www.jwplayer.com/<br>
-</font>
-<br>http://www.videojs.com/<br>
-<br>
+<font style="font-size: 32px;">http://www.jwplayer.com
+</font>http://www.videojs.com
 </div>
-<div>http://mediaelementjs.com/<br>
-<br>
+<div>http://mediaelementjs.com
 </div>
-<div>http://flowplayer.org/<br>
+<div>http://flowplayer.org
 </div>
 </section>
 <section>
     <h2>IT’S THE FUTURE, GET WITH IT!</h2>
 <div>
-    <br>
+   
 </div>
 <div>
-<br>
 </div>
 <div>Questions ??</div>
 </section>
