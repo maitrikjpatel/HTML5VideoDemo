@@ -1,39 +1,15 @@
-HTML5VideoDemo
-==============
 
-HTML5 Demo
-
-<div class="slides">
-    <section>
-        <h1>
-            <br>
-        </h1>
-<h1>
-        <br>
-    </h1>
 <h1>HTML5 Video</h1>
-<div>
-    <br>
-</div>
-</section>
-<section>
-    <h2>Why we need it ? (pros)</h2>
-<div>
-    <br>
-</div>
-<div>
+<h2>Why we need it ? (pros)</h2>
 <ul>
 <li>
 <span style="text-align: center;">Doesn't require plug-in.&nbsp;</span>
-<br>
 </li>
 <li>
-<span style="text-align: center;">Built into browser so better performance.&nbsp;</span>
-<br>
+<span style="text-align: center;">Built into browser so better performance.</span>
 </li>
 <li>
 <span style="text-align: center;">CLEANER CODE</span>
-<br>
 </li>
 <li>
 <span style="text-align: center;">MOBILE, MOBILE, MOBILE</span>
@@ -42,12 +18,8 @@ HTML5 Demo
 <span style="text-align: center;">LEGACY/CROSS BROWSER SUPPORT</span>
 </li>
 </ul>
-</div>
-</section>
-<section>
-    <section>
-        <h2>Elements</h2>
-<div>
+<h2>Elements</h2>
+
 
 
 
